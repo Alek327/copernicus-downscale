@@ -1,0 +1,9 @@
+rasterio
+geopandas
+cdsapi
+xarray
+netCDF4
+matplotlib
+pandas
+streamlit
+pytest
