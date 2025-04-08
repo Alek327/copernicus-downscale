@@ -1,0 +1,10 @@
+{
+  "title": "Copernicus Downscale Toolkit",
+  "creators": [{"name": "Galychyn, Oleksandr", "affiliation": "University of Ghent"}],
+  "description": "Hybrid toolkit using Copernicus data and OSM GeoParquet to model urbanization and water stress.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": ["Copernicus", "OSM", "GeoParquet", "urban", "hydrology"],
+  "upload_type": "software",
+  "publication_date": "2025-04-07"
+}

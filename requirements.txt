@@ -1,0 +1,12 @@
+geopandas
+pandas
+numpy
+matplotlib
+rasterio
+streamlit
+pydeck
+pyarrow
+xarray
+cdsapi
+pytest
+shapely
