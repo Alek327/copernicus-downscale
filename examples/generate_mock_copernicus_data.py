@@ -47,7 +47,7 @@ draw.rectangle([0, img.height - 25, img.width, img.height], fill="white")
 draw.text((10, img.height - 20), footer, font=font, fill="black")
 img.save("examples/copernicus_osm_overlay_with_footer_final.png")
 
-print("\n✅ Files created in 'examples/':")
+print("\n Files created in 'examples/':")
 print(" - mock_urban.geojson")
 print(" - mock_clc.tif")
 print(" - copernicus_osm_overlay_with_footer_final.png")
