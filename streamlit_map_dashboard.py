@@ -36,4 +36,4 @@ st.markdown("---")
 st.header("Final Overlay with GitHub + Zenodo Footer")
 st.image("examples/copernicus_osm_overlay_with_footer_final.png", caption="Mock overlay visualization", use_column_width=True)
 
-st.success("✅ Streamlit dashboard connected to Copernicus mock demo")
+st.success("Streamlit dashboard connected to Copernicus mock demo")
