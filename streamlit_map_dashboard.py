@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import rasterio.plot
 
 st.set_page_config(layout="wide")
-st.title("🌍 Copernicus + OSM Hybrid Demo")
+st.title("Copernicus + OSM Hybrid Demo")
 
 st.markdown("This live dashboard visualizes mock urban features over CORINE-style land cover.")
 
